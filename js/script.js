@@ -1,4 +1,5 @@
 function procesarRespuestas() {
+    scrollTop: '0px'
     let total = 5;
     let puntos = 0;
 
